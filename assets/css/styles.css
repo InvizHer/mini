@@ -170,7 +170,7 @@ body.dark-theme{
 }
 
 .profile__perfil img{
-  width: 75%;
+  width: 100%;
 }
 .profile__border{
   border: 3.5px solid var(--first-color);
