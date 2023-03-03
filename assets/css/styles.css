@@ -157,8 +157,8 @@ body.dark-theme{
 }
 
 .profile__perfil {
-  width: 140px;
-  height: 140px;
+  width: 100px;
+  height: 100px;
   background: linear-gradient(180deg,
               hsla(var(--hue), var(--sat), var(lig), 1) 0%,
               hsla(var(--hue), var(--sat), var(lig), .2) 100%,);
@@ -170,17 +170,21 @@ body.dark-theme{
 }
 
 .profile__perfil img{
-  width: 100%;
+  width: 75%;
 }
 .profile__border{
   border: 3.5px solid var(--first-color);
   justify-self: center;
-  width: 115px;
-  height: 115px;
+  width: 140px;
+  height: 140px;
   border-radius: 50%;
   display: grid;
   place-items: center;
   margin-bottom: .75rem;
+}
+.dp{
+  height: 100px;
+  
 }
 
 .profile__name{
