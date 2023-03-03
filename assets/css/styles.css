@@ -110,6 +110,9 @@ body.dark-theme{
 .dark-theme .button--gray{
   background-color: var(--container-color);
 }
+.dark-theme .button--gray:hover{
+  background-color: hsl(var(--hue), 24%, 16%);
+}
 
 /*=============== REUSABLE CSS CLASSES ===============*/
 .container {
