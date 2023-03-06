@@ -169,9 +169,9 @@ body.dark-theme{
   justify-content: center;
 }
 
-.profile__perfil img{
+/* .profile__perfil img{
   width: 75%;
-}
+} */
 .profile__border{
   border: 3.5px solid var(--first-color);
   justify-self: center;
@@ -182,10 +182,10 @@ body.dark-theme{
   place-items: center;
   margin-bottom: .75rem;
 }
-.dp{
+/* .dp{
   height: 100px;
   
-}
+} */
 
 .profile__name{
   font-size: var(--h2-font-size);
@@ -507,9 +507,9 @@ body.dark-theme{
     width: 120px;
     height: 120px;
   }
-  .profile__perfil img{
+  /* .profile__perfil img{
     width: 90px;
-  }
+  } */
   .profile__profession{
     margin-bottom: 1.5rem;
   }
